@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+html{
+    font-family: "Montserrat", sans-serif;  
+  }
+
+.copyright{
+    text-align : center!important;
+    margin-bottom : 3rem ;
+    background-color: bisque;
+    padding : 10px;
+}
